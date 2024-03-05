@@ -15,7 +15,6 @@ class ShuraginsTea {
     }
   
     brewTea() {
-      console.log('Brewing a delightful cup of Shuragins Tea. ☕');
     }
   
     customizeBlend(blend) {
